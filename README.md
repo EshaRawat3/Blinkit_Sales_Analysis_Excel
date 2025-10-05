@@ -1,4 +1,4 @@
 # Excel_Dashboard
-The Excel Dashboard project showcases the use of Microsoft Excel for creating interactive, data-driven dashboards that visualize key metrics and insights effectively. This project demonstrates how Excel can be transformed from a simple spreadsheet tool into a powerful business intelligence and reporting platform.
+An interactive Excel dashboard that visualizes Blinkit’s sales performance through dynamic charts and KPIs. It highlights key insights like top-performing products, sales trends, and revenue growth that helping business to make quick, data-driven decisions.
 # OUTPUT
 <img width="1402" height="828" alt="Image" src="https://github.com/user-attachments/assets/38d6eca6-c18a-4782-8030-1b1672914ae0" />
